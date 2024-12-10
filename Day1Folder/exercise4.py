@@ -9,3 +9,8 @@ def hello():
   print("My name is Sam")
 
 hello()
+
+def sayGoodbye():
+    print("Goodbye! See you soon.")
+
+sayGoodbye()
